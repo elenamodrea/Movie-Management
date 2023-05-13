@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<films>
+	<film idFilm="AGhY9pN8GTDFWtTS">
+		<nume>Closer</nume>
+		<tip>artistic</tip>
+		<categorie>drama</categorie>
+		<anRealizare>2004</anRealizare>
+	</film>
+	<film idFilm="BPelOG0p9RsOIqZb">
+		<nume>Game Night</nume>
+		<tip>artistic</tip>
+		<categorie>comedie</categorie>
+		<anRealizare>2018</anRealizare>
+	</film>
+	<film idFilm="NjLBzxYyFlinToIY">
+		<nume>Hannibal</nume>
+		<tip>serial</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2013</anRealizare>
+	</film>
+	<film idFilm="aW4e4qbsfSlAKIpn">
+		<nume>After</nume>
+		<tip>artistic</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2020</anRealizare>
+	</film>
+</films>

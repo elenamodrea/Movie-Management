@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<films>
+	<film idFilm="AGhY9pN8GTDFWtTS">
+		<nume>Closer</nume>
+		<tip>artistic</tip>
+		<categorie>drama</categorie>
+		<anRealizare>2004</anRealizare>
+	</film>
+	<film idFilm="NjLBzxYyFlinToIY">
+		<nume>Hannibal</nume>
+		<tip>serial</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2013</anRealizare>
+	</film>
+	<film idFilm="aW4e4qbsfSlAKIpn">
+		<nume>After</nume>
+		<tip>artistic</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2020</anRealizare>
+	</film>
+	<film idFilm="V3Ge6Vlx8oGGZW8Y">
+		<nume>After2</nume>
+		<tip>artistic</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2021</anRealizare>
+	</film>
+	<film idFilm="U2XvwAFGFcbBjKQH">
+		<nume>Closer2</nume>
+		<tip>artistic</tip>
+		<categorie>drama</categorie>
+		<anRealizare>2006</anRealizare>
+	</film>
+	<film idFilm="8E1kYWakQxTuoFCL">
+		<nume>Game Night2</nume>
+		<tip>artistic</tip>
+		<categorie>comedie</categorie>
+		<anRealizare>2019</anRealizare>
+	</film>
+	<film idFilm="1aPZD7mI6gKIl5rt">
+		<nume>Bridgerton2</nume>
+		<tip>serial</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2021</anRealizare>
+	</film>
+	<film idFilm="FzykN6wfqFFqCNZi">
+		<nume>Hannibal2</nume>
+		<tip>serial</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2017</anRealizare>
+	</film>
+	<film idFilm="qX9LdgBmtvSzqxku">
+		<nume>Work it</nume>
+		<tip>artistic</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2006</anRealizare>
+	</film>
+	<film idFilm="Mns4H6VJYeUSJS8M">
+		<nume>Fifty shades3</nume>
+		<tip>artistic</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2019</anRealizare>
+	</film>
+	<film idFilm="hETh0l2ctbmI5qAH">
+		<nume>Fifty shades2</nume>
+		<tip>serial</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2021</anRealizare>
+	</film>
+	<film idFilm="tdqSqOGfZqRMZXSe">
+		<nume>Fifty Shades1</nume>
+		<tip>serial</tip>
+		<categorie>romantic</categorie>
+		<anRealizare>2017</anRealizare>
+	</film>
+	<film idFilm="fflsP47aedw5d98G">
+		<nume>Papusa Chucky</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2006</anRealizare>
+	</film>
+	<film idFilm="qjaJv9BbKGMMxank">
+		<nume>Joker</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2021</anRealizare>
+	</film>
+	<film idFilm="hPT0NS7NaLmukimC">
+		<nume>Annabelle</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2005</anRealizare>
+	</film>
+	<film idFilm="Diox9Ld2aYwCVAqR">
+		<nume>Jeffree</nume>
+		<tip>serial</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2022</anRealizare>
+	</film>
+	<film idFilm="SYXSpA9P5XOe8Ugx">
+		<nume>Papusa Chucky2</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2008</anRealizare>
+	</film>
+	<film idFilm="aVKABcfje1wSsRMZ">
+		<nume>Papusa Chucky3</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2009</anRealizare>
+	</film>
+	<film idFilm="c2bktZoV9krIo1qe">
+		<nume>Joker2</nume>
+		<tip>artistic</tip>
+		<categorie>thriller</categorie>
+		<anRealizare>2015</anRealizare>
+	</film>
+</films>
